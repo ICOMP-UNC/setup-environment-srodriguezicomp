@@ -27,3 +27,6 @@
 
 # Dont track sonnar files
 .scannerwork/
+
+# sonar properties
+sonar-project.properties

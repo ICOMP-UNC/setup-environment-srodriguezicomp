@@ -7,6 +7,7 @@ project(
     LANGUAGES C
 )
 
+enable_testing()
 include(CTest)
 
 set(CMAKE_C_STANDARD 17)
